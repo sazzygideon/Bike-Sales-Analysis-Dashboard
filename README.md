@@ -14,7 +14,7 @@ The goal of this project was to analyze customer data to identify key factors th
 * **Commute Factor:** People with shorter commutes (0-1 miles) are significantly more likely to purchase a bike than those with long commutes.
 
 ## Dashboard Preview
-![Bike Sales Dashboard](dashboard_preview.jpg)
+![Bike Sales Dashboard](https://github.com/sazzygideon/Bike-Sales-Analysis-Dashboard/blob/main/dashboard_preview.PNG)
 
 ## Tools Used
 * **Excel:** Data Cleaning (VLOOKUP, IF statements, Find/Replace).
